@@ -1,0 +1,5 @@
+Lab_04_Question 02
+
+- The method triple() in the SubC class does not override the method in SuperB class because,
+SubC class does not contain an @override annotation.
+- Hence the output for triple() method will be calculated from the formula provided in SuperB class.
